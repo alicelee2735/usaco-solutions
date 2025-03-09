@@ -6,7 +6,9 @@
 - **Purpose**: Document my progress in USACO and share my solutions with anyone starting USACO.
 - **Divisions Covered**: Bronze. Silver, Gold(Coming soon).
 - **Structure**:  
-  - Organized by **division/contest year/month** (e.g., `bronze/2018-2019/dec1`).  
+  - Organized by **division/contest year/month** (e.g., `bronze/2018-2019/dec1`).
+  - .md files are problem + explanations
+  - .cpp files are code solutions
 
 ---
 
