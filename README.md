@@ -19,12 +19,13 @@
 ---
 
 ## 🌟 **My Tips for USACO so far**
+- Practice A LOT of problems, constantly solve more problems where you learn something new from
 - Practice **time management** and writing correct code for Bronze  
 - Master **algorithms** and interpretation of the problem for Silver
 ---
 
 ## 🤝 **Contributing**  
-Found a bug or a better solution of yours? Open a pull request!  
+Found a bug, a better solution, or java/python solution? Open a pull request!  
 Guidelines:  
 - Clarify the year+problem of your solution
 - Fork this repo, include your contributions and open a PR
