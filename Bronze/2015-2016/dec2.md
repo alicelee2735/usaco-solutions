@@ -11,4 +11,4 @@ Given the information above, please determine the maximum amount over the speed 
 ### Solution
 Since the range given for the speed limit and Bessie's speed is different, and bessie drives the entire 100 miles, we can record the speed limit and Bessie's speed at every **location**. Therefore, while we input Bessie's range and driving speed, we can compare Bessie's speed and the speed limit at every location within the range.
 
-### [Solution Code](./2015-2016/dec2.cpp)
+### [Solution Code](./dec2.cpp)
